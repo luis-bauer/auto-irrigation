@@ -2,7 +2,7 @@
 
 > **Archived Project:** This is a school seminar project from 2023. The code is not being maintained anymore and serves as a reference for my first projects
 
-![Image of the display](display.jpg)
+![Image of the display](display.jpeg)
 
 ## Overview
 The goal of the seminar was to create a self-watering flowerbed. I was solely responsible for the entire software logic and the technical implementation of all features listed below.
@@ -28,7 +28,7 @@ From today's perspective, I would build the code more modularly and implement er
 
 > **Archiviertes Projekt:** Dies ist mein P-Seminar Projekt aus dem Jahr 2023. Der Code wird nicht mehr gepflegt und dient als Referenz für meine ersten Projekte.
 
-![Foto vom Beet](display.jpg)
+![Foto vom Beet](display.jpeg)
 
 ## Überblick
 Ziel des Seminars war die Erstellung eines selbstbewässernden Blumenfelds.
