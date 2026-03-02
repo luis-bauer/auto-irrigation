@@ -8,9 +8,9 @@
 The goal of the seminar was to create a self-watering flowerbed. I was solely responsible for the entire software logic and the technical implementation of all features listed below.
 
 ## Functions
-- ⏱️ **Auto-Interval-Irrigation:** If the soil moisture falls below the threshold, the water pump is switched on for a set interval and a cooldown of 30 minutes is started.
-- 💧 **Manual-Irrigation:** Irrigation can be manually activated via the dashboard, regardless of humidity.
-- 🛠️ **Dashboard-Display:** The connected display shows multiple windows that can be cycled through using a button. Among other things, it can display the last watering time, soil moisture, air humidity, and air temperature.
+- **Auto-Interval-Irrigation:** If the soil moisture falls below the threshold, the water pump is switched on for a set interval and a cooldown of 30 minutes is started.
+- **Manual-Irrigation:** Irrigation can be manually activated via the dashboard, regardless of humidity.
+- **Dashboard-Display:** The connected display shows multiple windows that can be cycled through using a button. Among other things, it can display the last watering time, soil moisture, air humidity, and air temperature.
 
 ## Technologies used
 - **Controller:** ESP8266
@@ -35,9 +35,9 @@ Ziel des Seminars war die Erstellung eines selbstbewässernden Blumenfelds.
 Dabei war ich zuständig für die Technik. Die folgenden Funktionen wurden vollständig von mir implementiert.
 
 ## Funktionen
-- ⏱️ **Auto-Intervall-Bewässerung:** Unterschreitet die Feuchtigkeit den Grenzwert wird die Wasserpumpe für eine feste Zeit eingeschaltet und ein Cooldown von 30 Minuten wird gesetzt.
-- 💧 **Manuelle-Bewässerung:** Über das Dashboard kann unabhängig vom Feuchtigkeitswert eine Bewässerung aktiviert werden.
-- 🛠️ **Dashboard-Anzeige:** Das angeschlossene Display zeigt verschiedene Fenster zwischen denen mithilfe eines Knopfes durchgeschaltet werden kann. Unter anderem kann der letzte Bewässerungszeitpunkt, die Bodenfeuchtigkeit, die Luftfeuchtigkeit und die Lufttemperatur angezeigt werden.
+- **Auto-Intervall-Bewässerung:** Unterschreitet die Feuchtigkeit den Grenzwert wird die Wasserpumpe für eine feste Zeit eingeschaltet und ein Cooldown von 30 Minuten wird gesetzt.
+- **Manuelle-Bewässerung:** Über das Dashboard kann unabhängig vom Feuchtigkeitswert eine Bewässerung aktiviert werden.
+- **Dashboard-Anzeige:** Das angeschlossene Display zeigt verschiedene Fenster zwischen denen mithilfe eines Knopfes durchgeschaltet werden kann. Unter anderem kann der letzte Bewässerungszeitpunkt, die Bodenfeuchtigkeit, die Luftfeuchtigkeit und die Lufttemperatur angezeigt werden.
 
 ## Verwendete Technologien
 - **Controller:** ESP8266
