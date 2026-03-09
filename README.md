@@ -2,6 +2,10 @@
 
 > **Archived Project:** This is a school seminar project from 2023. The code is not being maintained anymore and serves as a reference for my first projects
 
+
+https://github.com/user-attachments/assets/ce32453d-5ed5-4b31-a12e-505bc466400e
+
+
 ![Image of the display](display.jpeg)
 
 ## Overview
